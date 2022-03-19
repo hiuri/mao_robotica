@@ -1,5 +1,9 @@
 # Projeto Mão Robótica
-Trabalho final da disciplina de Projeto Integrador 2021/2
+Trabalho final de Projeto Integrado em Computação 2021/2 - UFES Campus Goiabeiras
+
+Grupo: Gabriel Gatti e Hiuri Liberato
+
+
 
 # Resumo
 Criação de uma mão robótica que executa movimentos de acordo com os comandos recebidos via Bluetooth pelo aplicativo mobile.
