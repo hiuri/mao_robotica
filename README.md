@@ -21,4 +21,8 @@ Segue em anexo o código do arduino que está embarcado e o código do app inven
 
 # Esquemático
 
+![esquematico](https://user-images.githubusercontent.com/91709443/159102819-50d15b38-3bfc-40f4-a313-5523d0e56f9a.png)
+
 # Aplicativo
+
+
