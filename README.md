@@ -17,6 +17,8 @@ O aplicativo mobile foi desenvolvido com a ferramenta App Inventor.
 
 A alimentação do sistema é feita com um power bank de 2000 mAh.
 
+Segue em anexo o código do arduino que está embarcado e o código do app inventor usado para a aplicação mobile.
+
 # Esquemático
 
 # Aplicativo
