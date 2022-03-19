@@ -26,3 +26,8 @@ Segue em anexo o código do arduino que está embarcado e o código do app inven
 # Aplicativo
 
 
+# Link YouTube
+
+https://youtu.be/GR1iLuvDujE
+
+
