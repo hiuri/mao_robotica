@@ -1,5 +1,5 @@
 # Projeto Mão Robótica
-Trabalho final de Projeto Integrado em Computação 2021/2 - UFES Campus Goiabeiras
+Trabalho final de Projeto Integrador em Computação 2021/2 - UFES Campus Goiabeiras
 
 Grupo: Gabriel Gatti e Hiuri Liberato
 
